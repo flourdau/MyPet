@@ -10,3 +10,8 @@
 - Design MVVM
 - Suggestion des noms avec l'API https://swapi.tech/api/people?page=1&limit=100
 - 🩷
+
+<video width="720" height="340" controls>
+    <source src="demoMyPet.mov" type="video/mp4">
+    Your browser does not support the video tag.
+</video>  
